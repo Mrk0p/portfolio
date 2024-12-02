@@ -64,7 +64,7 @@ export const projectsData = [
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
     tags: ["React", "Next.js", "Stream API", "Tailwind", "clerk Auth"],
     imageUrl: videocall,
-    projectUrl: "https://zoom-clone-one-ashen.vercel.app/",
+    projectUrl: "https://zoom-clone-sigma-five.vercel.app/",
   },
   {
     title: "Kanban board",
@@ -72,7 +72,7 @@ export const projectsData = [
       "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
     tags: ["React", "Next.js", "Tailwind"],
     imageUrl: kanban,
-    projectUrl: "https://zoom-clone-one-ashen.vercel.app/",
+    projectUrl: "https://kanban-board-seven-bice.vercel.app/",
   },
 
 ] as const;
