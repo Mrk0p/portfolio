@@ -48,7 +48,7 @@ export const projectsData = [
       "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
     tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux","shadcn UI","Redis","Kinde Auth" ],
     imageUrl: ecommerce,
-    projectUrl: "https://shop-seven-orcin.vercel.app/",
+    projectUrl: "https://shop-3599qd5ml-sachin-weles-projects.vercel.app/",
   },
   {
     title: "URL shortener",
