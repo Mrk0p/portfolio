@@ -37,7 +37,7 @@ export const projectsData = [
   {
     title: "UIUX Design Tools",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
+      "A collaborative Figma clone built with real-time canvas editing, drag-and-drop features, and live syncing using WebSockets. Built using React, Tailwind CSS, Node.js, and Socket.IO to mimic design tool functionality in the browser.",
     tags: ["React", "Next.js", "Tailwind", "Framer motion","Figma"],
     imageUrl: UIUX,
     projectUrl: "https://figma-clone-ivory-eight.vercel.app/",
