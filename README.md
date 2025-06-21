@@ -1,3 +1,34 @@
+# 🧑‍💻 Full Stack Developer Portfolio
+
+Welcome to my personal **developer portfolio** – a fully responsive, interactive website created to highlight my skills, experience, and projects as a Full Stack Web Developer. This site is designed using **modern tools and best practices**, with a clean UI and smooth user experience.
+
+---
+
+## 📌 Project Overview
+
+This portfolio is more than just a static profile – it's a reflection of my practical knowledge and developer workflow. I’ve used **Next.js** for server-side rendering and routing, **Tailwind CSS** for utility-first styling, and **TypeScript** for type safety. Animations are powered by **Framer Motion**, and the UI is structured with **Shadcn UI components** for clean, accessible design.
+
+### 🎯 Key Features
+
+- ✅ **Responsive Design**: Works seamlessly on mobile, tablet, and desktop devices.
+- ⚡ **Animated Transitions**: Smooth animations with Framer Motion to enhance interactivity.
+- 💼 **Project Showcase**: Includes links to live projects and GitHub repos.
+- 📄 **Resume Section**: Downloadable resume with contact details.
+- 🌐 **Deployed on Vercel** for performance, CI/CD, and scalability.
+
+---
+
+## 🛠️ Tech Stack
+
+| Category     | Tools Used                                      |
+|--------------|--------------------------------------------------|
+| Frontend     | Next.js, TypeScript, Tailwind CSS, React Icons  |
+| UI Framework | Shadcn UI                                       |
+| Animation    | Framer Motion                                   |
+| Deployment   | Vercel                                           |
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
